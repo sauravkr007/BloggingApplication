@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c70883a8.css",
+    "main.js": "/static/js/main.ecf62db7.js",
+    "static/media/walpaper.jpg": "/static/media/walpaper.fa89ca205080e834190c.jpg",
+    "index.html": "/index.html",
+    "static/media/index.cjs": "/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.c70883a8.css.map": "/static/css/main.c70883a8.css.map",
+    "main.ecf62db7.js.map": "/static/js/main.ecf62db7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c70883a8.css",
+    "static/js/main.ecf62db7.js"
+  ]
+}
